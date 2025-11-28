@@ -1,6 +1,6 @@
 # Eai! Eu sou Guilherme!
 
-- Tenho 30 anos estou a 9 anos na area da tecnologia (suporte), em 2025 tomei a decisão de migrar para desenvolvimento, atuamente estou cursanddo a residencia de software na SERRATEC.
+- Tenho 31 anos estou a 9 anos na area da tecnologia (suporte), em 2025 tomei a decisão de migrar para desenvolvimento, atuamente estou cursanddo a residencia de software na SERRATEC.
 
 ## Linguagens e Tecnologias
   <div style="display: inline_block">
