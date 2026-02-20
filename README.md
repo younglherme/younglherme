@@ -1,6 +1,6 @@
 # Eai! Eu sou Guilherme!
 
-- Tenho 31 anos estou a 9 anos na area da tecnologia (suporte), em 2025 tomei a decisão de migrar para desenvolvimento, formado na residencia de software na SERRATEC e Senai.
+- Tenho 31 anos estou a 9 anos na area da tecnologia (suporte), em 2025 tomei a decisão de migrar para desenvolvimento. Sou formado na residencia de software na SERRATEC e Senai, um curso Intensivo totalizando 790 horas.
 
 ## Linguagens e Tecnologias
   <div style="display: inline_block">
