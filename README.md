@@ -6,7 +6,7 @@ modernas.`**
 Scrum. Experiência sólida em controle de versão com Git e foco total em escrita de código limpo
 e arquitetura sustentável. Trabalho bem sob colaboração, focando em produtividade e clareza. Sou formado na residencia de software na SERRATEC e Senai, um curso Intensivo totalizando 790 horas.
 
-📊 Atualmente explorando: Angular
+📊 Atualmente explorando: Kotlin
 
 🛠️ Background técnico: Desenvolvimento Backend
 
