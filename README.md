@@ -8,7 +8,7 @@ e arquitetura sustentável. Trabalho bem sob colaboração, focando em produtivi
 
 📊 Atualmente explorando: Kotlin
 
-🛠️ Background técnico: Desenvolvimento Backend
+🛠️ Background técnico: Desenvolvimento Backend(Fullstack)
 
 💡 Buscando aplicar meu conhecimento backend para resolver problemas reais de mercado.
 
