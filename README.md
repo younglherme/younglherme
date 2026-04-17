@@ -1,4 +1,7 @@
-# Eai! Eu sou Guilherme!
+<div align="center">
+  <!-- Animated header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Guilherme%20Silva&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+  </div>
 **`Focado por solucionar problemas complexos através de APIs eficientes e interfaces
 modernas.`**
 
@@ -19,31 +22,30 @@ e arquitetura sustentável. Trabalho bem sob colaboração, focando em produtivi
 
 ---
 
-### 🤖 Linguagens e Tecnologias
-  <p align="left">
-      <img align="center" alt="gui-java" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-      <img align="center" alt="gui-java" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-      <img align="center" alt="gui-java" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/>
-      <img align="center" alt="gui-java" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-      <img align="center" alt="gui-java" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-      <img align="center" alt="gui-java" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/> 
-      <img align="center" alt="gui-spring" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-      <img align="center" alt="gui-post" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"/>
-      <img align="center" alt="gui-post" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
-      <img align="center" alt="gui-aws" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
-      <img align="center" alt="gui-git" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
-    
-  </p> 
-            
+### 🛠 Stack
+  
+<div align="center">
+  
+**Back-end & Banco de dados**
+
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,postgres,mysql&theme=dark" />
+
+**Front-end**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark" />
+
+**QA & Ferramentas**
+
+<img src="https://skillicons.dev/icons?i=cypress,postman,git,github,idea,vscode,linux,aws&theme=dark" />
+
+</div>  
+
 --- 
             
-           
-          
-          
           
 ### 📊 Estatísticas
 
-<p align="left">
+<p align="center">
   <img
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=younglherme&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
     width="420"
@@ -54,3 +56,8 @@ e arquitetura sustentável. Trabalho bem sob colaboração, focando em produtivi
     width="390"
   />
 </p>
+
+<!-- Footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%"/>
+
+</div>
