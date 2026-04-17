@@ -2,8 +2,11 @@
   <!-- Animated header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Guilherme%20Silva&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
   </div>
-**`Focado por solucionar problemas complexos através de APIs eficientes e interfaces
-modernas.`**
+<!-- Typing animation -->
+<div align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=435&lines=Em+busca+de+uma+oportunidade!" alt="Typing SVG" /></a>
+</div>
 
 - Domínio técnico em Java, Spring Boot e React, aliado à vivência em ambientes ágeis com
 Scrum. Experiência sólida em controle de versão com Git e foco total em escrita de código limpo
