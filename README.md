@@ -31,7 +31,7 @@ e arquitetura sustentável. Trabalho bem sob colaboração, focando em produtivi
   
 **Back-end & Banco de dados**
 
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,postgres,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,spring,nodejs,express,postgres,mysql&theme=dark" />
 
 **Front-end**
 
