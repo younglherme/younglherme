@@ -31,7 +31,7 @@ e arquitetura sustentável. Trabalho bem sob colaboração, focando em produtivi
 
 **Front-end**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,tailwind&theme=dark" />
 
 **QA & Ferramentas**
 
