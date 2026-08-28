@@ -9,7 +9,7 @@ Scrum. Experiência sólida em controle de versão com Git e foco total em escri
 e arquitetura sustentável. Trabalho bem sob colaboração, focando em produtividade e clareza. Sou formado na residência de software na SERRATEC e no SENAI, um curso intensivo totalizando 790 horas.
 
 
-Atualmente na residência Salesforce Low-code pela Puc-ecOa
+- Atualmente na residência Salesforce Low-code pela Puc-ecOa
 
 📊 Atualmente explorando: Salesforce
 
